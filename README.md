@@ -14,8 +14,7 @@ This project constitutes an advanced, web-based real-time weather application de
   - Maximum and minimum recorded temperatures
 
 ## Technology Stack
-- **Frontend Framework**: React
-- **Styling Library**: Chakra UI
+- HTML,CSS and JavaScript
 - **Data Source**: Open Weather API
 
 ## Functional Overview
